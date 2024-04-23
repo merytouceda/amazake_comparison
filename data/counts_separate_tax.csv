@@ -1,0 +1,130 @@
+Domain,Kingdom,Phylum,Class,Order,Family,Genus,Species,AAO-0H-1,AAO-0H-2,AAO-0H-3,AAO-16H-1,AAO-16H-2,AAO-16H-3,BA-0H-1,BA-0H-2,BA-0H-3,BA-16H-1,BA-16H-2,BA-16H-3
+cellular organisms,Eukaryota,Opisthokonta,Fungi,Dikarya,Ascomycota,saccharomyceta,Pezizomycotina,676942,553392,545003,598256,676739,455835,5,194,56,76,115,19
+cellular organisms,Eukaryota,Opisthokonta,Fungi,Dikarya,Ascomycota,saccharomyceta,Pezizomycotina,210538,170662,169989,190576,215539,146021,2,51,18,27,39,5
+cellular organisms,Bacteria,Terrabacteria group,Bacillota,Bacilli,Bacillales,Bacillaceae,Fictibacillus,13824,11197,10689,4876,5498,3363,4,9,4,6,5,3
+cellular organisms,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Delftia,unclassified Delftia,1101,23122,1134,350,21,543,1707,73,80,4056,1622,1719
+cellular organisms,Eukaryota,Opisthokonta,Fungi,Dikarya,Ascomycota,saccharomyceta,Pezizomycotina,975,765,757,998,1125,782,7,6,4,7,17,22
+cellular organisms,Bacteria,Terrabacteria group,Bacillota,Clostridia,Eubacteriales,Peptostreptococcaceae,Clostridioides,768,482,547,2300,2593,1672,252,290,269,292,563,409
+cellular organisms,Bacteria,Pseudomonadota,Betaproteobacteria,Rhodocyclales,Azonexaceae,Dechloromonas,unclassified Dechloromonas,559,387,509,8621,8855,5728,743,811,865,1506,3725,2404
+cellular organisms,Eukaryota,Opisthokonta,Fungi,Fungi incertae sedis,Mucoromycota,Glomeromycotina,Glomeromycetes,503,434,407,253,282,195,9,8,6,16,43,19
+cellular organisms,Bacteria,Terrabacteria group,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,257,189,190,231,237,153,4770,5819,4558,2754,4591,3359
+cellular organisms,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella/Raoultella group,Klebsiella,190,135,160,2537,2575,1640,1221,1480,1211,995,2030,1287
+cellular organisms,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiales genera incertae sedis,Xylophilus,unclassified Xylophilus,181,850,142,144,4,155,175,5326,502,26,284,72
+cellular organisms,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,173,100,185,2284,2286,1522,728,870,732,1047,2061,1251
+cellular organisms,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter calcoaceticus/baumannii complex,127,101,104,1324,1387,851,152,191,194,376,751,467
+cellular organisms,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,unclassified Dyella,105,35,1990,5013,2,63,5,66,422,559,5928,11
+cellular organisms,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter,Enterobacter cloacae complex,81,54,65,834,810,486,108,161,111,522,1171,640
+cellular organisms,Eukaryota,Cryptophyceae,unclassified Cryptophyta,Cryptophyta sp. CCMP2293,NA,NA,NA,75,37,52,855,963,635,80,103,101,80,192,146
+cellular organisms,Bacteria,Pseudomonadota,Betaproteobacteria,Neisseriales,Chromobacteriaceae,Chromobacterium group,Chromobacterium,73,956,4587,1872,174,73,565,228,165,885,3035,1145
+cellular organisms,Bacteria,Terrabacteria group,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycolicibacterium,65,42,61,639,626,392,79,110,90,324,781,419
+cellular organisms,Bacteria,Terrabacteria group,Bacillota,Bacilli,Bacillales,Bacillaceae,Robertmurraya,62,44,53,870,880,536,82,109,94,195,487,331
+cellular organisms,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,unclassified Serratia (in: enterobacteria),62,3,1365,4126,1,417,5,49,133,380,5,21
+cellular organisms,Bacteria,Terrabacteria group,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycobacteroides,53,45,55,940,966,637,163,182,171,1609,2857,1837
+cellular organisms,Eukaryota,Sar,Stramenopiles,Oomycota,Peronosporales,Peronosporaceae,Plasmopara,49,28,29,580,635,411,68,61,70,88,193,122
+cellular organisms,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica,46,34,51,667,649,438,1288,1618,1247,255,466,339
+cellular organisms,Bacteria,Pseudomonadota,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingobium,Sphingobium jiangsuense,43,24,28,417,460,292,43,63,52,83,205,107
+cellular organisms,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodospirillales,Azospirillaceae,Azospirillum,Azospirillum oryzae,40,24,46,561,525,341,49,51,61,96,264,158
+cellular organisms,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Herbaspirillum,unclassified Herbaspirillum,40,1201,671,185,96,143,11387,50,39,4525,580,458
+cellular organisms,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium/Agrobacterium group,Rhizobium,40,107,912,85,66,6151,1541,66,66,113,142,581
+cellular organisms,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Hydrogenophaga,Hydrogenophaga electricum,37,45,39,707,744,475,82,96,80,170,403,283
+cellular organisms,Eukaryota,Opisthokonta,Fungi,Dikarya,Ascomycota,saccharomyceta,Pezizomycotina,35,34,38,36,47,26,4,4,3,4,8,8
+cellular organisms,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter,Enterobacter cloacae complex,30,14,31,549,518,303,47,58,59,162,319,179
+cellular organisms,Bacteria,Terrabacteria group,Bacillota,Clostridia,Eubacteriales,Clostridiaceae,Paraclostridium,30,17,20,379,378,259,30,30,32,48,124,69
+cellular organisms,Bacteria,FCB group,Bacteroidota/Chlorobiota group,Bacteroidota,Sphingobacteriia,Sphingobacteriales,Sphingobacteriaceae,28,30,3,1251,3,1813,148,1410,1195,1307,2132,692
+cellular organisms,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodospirillales,Terasakiellaceae,Terasakiella,Candidatus Terasakiella magnetica,22,11,22,306,258,158,20,27,29,22,72,46
+cellular organisms,Bacteria,Pseudomonadota,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Pasteurella,Pasteurella multocida,20,17,14,337,341,192,19,30,38,65,137,90
+cellular organisms,Eukaryota,Viridiplantae,Chlorophyta,Mamiellophyceae,Mamiellales,Mamiellaceae,Micromonas,20,6,3,139,155,94,14,8,20,35,50,41
+cellular organisms,Bacteria,Terrabacteria group,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,20,12,11,160,148,92,31,35,29,31,63,50
+cellular organisms,Eukaryota,Opisthokonta,Fungi,Fungi incertae sedis,Mucoromycota,Glomeromycotina,Glomeromycetes,20,7,12,148,145,118,27,20,25,41,56,38
+cellular organisms,Eukaryota,Opisthokonta,Fungi,Dikarya,Basidiomycota,Pucciniomycotina,Pucciniomycetes,19,12,15,67,82,56,4,7,6,10,24,10
+cellular organisms,Eukaryota,Viridiplantae,Chlorophyta,core chlorophytes,Chlorophyceae,CS clade,Sphaeropleales,19,10,11,200,248,166,18,19,22,43,72,55
+cellular organisms,Eukaryota,Opisthokonta,Fungi,Fungi incertae sedis,Mucoromycota,Glomeromycotina,Glomeromycetes,19,11,12,187,206,156,15,21,17,24,85,51
+cellular organisms,Bacteria,FCB group,Bacteroidota/Chlorobiota group,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,18,16,9,194,240,144,16,22,30,37,90,52
+cellular organisms,Bacteria,Terrabacteria group,Bacillota,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,15,9,17,307,356,203,2409,2875,2222,1440,1639,1919
+cellular organisms,Bacteria,Pseudomonadota,Betaproteobacteria,Neisseriales,Chromobacteriaceae,Aquitalea,unclassified Aquitalea,15,57,829,369,356,295,339,751,5279,180,52,346
+cellular organisms,Bacteria,Pseudomonadota,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio anguillarum,14,5,17,146,157,107,12,12,12,28,56,24
+cellular organisms,Bacteria,Terrabacteria group,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Mammaliicoccus,14,14,22,206,259,166,18,23,24,36,85,43
+cellular organisms,Bacteria,unclassified Bacteria,bacterium F082,NA,NA,NA,NA,14,8,3,150,140,86,10,12,10,24,41,29
+cellular organisms,Eukaryota,Opisthokonta,Fungi,Dikarya,Ascomycota,saccharomyceta,Pezizomycotina,13,23,25,53,42,30,4,8,4,9,11,15
+cellular organisms,Eukaryota,Opisthokonta,Fungi,Dikarya,Ascomycota,saccharomyceta,Pezizomycotina,13,11,12,40,38,26,7,8,3,16,22,21
+cellular organisms,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Mesorhizobium,unclassified Mesorhizobium,13,15,13,242,227,135,36,40,49,36,129,70
+cellular organisms,Bacteria,Terrabacteria group,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,12,10,6,85,90,55,29,28,25,20,51,26
+cellular organisms,Bacteria,environmental samples,uncultured bacterium,NA,NA,NA,NA,12,7,13,191,201,140,40,47,49,48,96,56
+cellular organisms,Bacteria,FCB group,Bacteroidota/Chlorobiota group,Bacteroidota,Flavobacteriia,Flavobacteriales,Crocinitomicaceae,12,3,13,134,143,93,25,13,14,27,60,40
+cellular organisms,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Pantoea,Pantoea ananatis,11,1,8,55,60,36,30,59,99,23,35,13
+cellular organisms,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xylella,Xylella fastidiosa,11,3,4,130,118,79,10,8,8,26,45,30
+cellular organisms,Bacteria,Pseudomonadota,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio harveyi group,11,4,4,79,99,52,10,6,10,20,42,23
+cellular organisms,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Nitrobacteraceae,Bradyrhizobium,Bradyrhizobium iriomotense,11,6,8,110,107,70,20,33,18,39,75,49
+cellular organisms,Bacteria,Terrabacteria group,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,11,6,16,244,259,153,15,13,19,38,73,37
+cellular organisms,Bacteria,Terrabacteria group,Chloroflexota,Chloroflexia,environmental samples,uncultured Chloroflexia bacterium,NA,10,8,4,105,138,86,10,12,9,19,35,25
+cellular organisms,Eukaryota,Opisthokonta,Fungi,Dikarya,Basidiomycota,Agaricomycotina,Tremellomycetes,10,4,2,93,78,67,2,5,7,20,46,18
+cellular organisms,Bacteria,FCB group,Bacteroidota/Chlorobiota group,Bacteroidota,Sphingobacteriia,Sphingobacteriales,Sphingobacteriaceae,10,6,5,67,88,44,12,11,13,27,51,39
+cellular organisms,Bacteria,Terrabacteria group,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,10,10,10,241,237,157,13,33,32,44,89,68
+cellular organisms,Bacteria,Terrabacteria group,Cyanobacteriota/Melainabacteria group,Cyanobacteriota,unclassified Cyanobacteriota,cyanobacterium G8-9,NA,10,8,5,215,196,163,20,19,16,25,69,42
+cellular organisms,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Cronobacter,Cronobacter sakazakii,9,3,4,117,118,79,23,14,22,25,36,21
+cellular organisms,Eukaryota,Sar,Stramenopiles,Ochrophyta,PX clade,Phaeophyceae,Laminariales,9,14,5,107,91,57,25,29,21,36,70,54
+cellular organisms,Bacteria,Terrabacteria group,Actinomycetota,Actinomycetes,Frankiales,Frankiaceae,Frankia,9,2,4,116,102,64,28,32,28,29,46,28
+cellular organisms,Bacteria,FCB group,Bacteroidota/Chlorobiota group,Bacteroidota,Bacteroidia,Marinilabiliales,Marinifilaceae,9,3,3,25,20,9,6,5,6,12,22,20
+cellular organisms,Bacteria,Terrabacteria group,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,8,5,30,28,18,5,233072,293957,219468,965,1749,1036
+cellular organisms,Bacteria,Pseudomonadota,Gammaproteobacteria,Oceanospirillales,Halomonadaceae,Halomonas,Halomonas heilongjiangensis,8,4,6,69,52,28,10,22,20,25,27,34
+cellular organisms,Bacteria,Terrabacteria group,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,8,2,9,106,94,76,10,11,8,12,25,35
+cellular organisms,Eukaryota,Opisthokonta,Fungi,Dikarya,Basidiomycota,Pucciniomycotina,Pucciniomycetes,7,4,8,21,36,20,2,2,3,6,14,9
+cellular organisms,Bacteria,Terrabacteria group,Actinomycetota,Actinomycetes,Frankiales,Frankiaceae,Frankia,7,8,4,56,70,54,14,16,13,19,31,18
+cellular organisms,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacteriaceae incertae sedis,"ant, tsetse, mealybug, aphid, etc. endosymbionts",7,2,3,97,99,72,10,12,6,19,37,14
+cellular organisms,Bacteria,Terrabacteria group,Bacillota,Bacilli,Bacillales,Listeriaceae,Listeria,6,5,4,86,85,52,2007,2391,1814,4578,6463,5608
+cellular organisms,Bacteria,FCB group,Bacteroidota/Chlorobiota group,Bacteroidota,Cytophagia,Cytophagales,Spirosomaceae,6,5,3,54,59,39,18,27,18,11,42,25
+cellular organisms,Bacteria,Terrabacteria group,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,5,2,8,86,81,43,760,951,695,1800,3147,2112
+cellular organisms,Bacteria,Terrabacteria group,Bacillota,Bacilli,Lactobacillales,Aerococcaceae,Aerococcus,5,2,1,25,47,23,6,6,5,6,19,11
+cellular organisms,Eukaryota,Opisthokonta,Fungi,Fungi incertae sedis,Mucoromycota,Glomeromycotina,Glomeromycetes,5,3,3,18,29,15,1,5,5,5,5,4
+cellular organisms,Bacteria,Terrabacteria group,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,5,5,10,11,8,11,645,740,660,1698,2557,1925
+cellular organisms,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Chitinimonas,Chitinimonas prasina,5,11,8,237,189,128,32,52,40,89,152,107
+cellular organisms,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Paracoccaceae,Pseudooceanicola,Pseudooceanicola lipolyticus,5,6,7,142,118,81,10,8,17,19,41,24
+cellular organisms,Bacteria,Pseudomonadota,Gammaproteobacteria,Nevskiales,Steroidobacteraceae,Steroidobacter,Steroidobacter agaridevorans,5,1,2,17,13,13,2,2,2,3,18,4
+cellular organisms,Bacteria,Terrabacteria group,Actinomycetota,Actinomycetes,Frankiales,Frankiaceae,Frankia,5,1,2,64,70,40,13,23,18,16,37,25
+cellular organisms,Bacteria,Terrabacteria group,Actinomycetota,Actinomycetes,Frankiales,Frankiaceae,Frankia,5,4,3,58,58,40,14,19,10,24,53,34
+cellular organisms,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa group,4,3,3,54,86,50,222,291,221,67,46,29
+cellular organisms,Bacteria,Pseudomonadota,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio vulnificus,4,6,1,47,34,32,8,19,6,14,30,37
+cellular organisms,Bacteria,Terrabacteria group,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,4,3,4,41,48,34,11,12,7,9,29,6
+cellular organisms,Bacteria,Terrabacteria group,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,4,2,4,50,48,39,3,4,4,9,29,10
+cellular organisms,Eukaryota,Opisthokonta,Fungi,Dikarya,Basidiomycota,Agaricomycotina,Tremellomycetes,4,5,13,61,42,32,13,6,5,10,22,9
+cellular organisms,Bacteria,Terrabacteria group,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,4,6,7,141,163,69,16,17,19,35,95,66
+cellular organisms,Eukaryota,Opisthokonta,Fungi,Dikarya,Basidiomycota,Agaricomycotina,Dacrymycetes,4,2,5,35,46,20,3,5,1,11,21,10
+cellular organisms,Eukaryota,Opisthokonta,Fungi,Fungi incertae sedis,Mucoromycota,Glomeromycotina,Glomeromycetes,4,3,1,68,49,46,10,14,3,8,27,9
+cellular organisms,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Paracoccaceae,Mangrovicoccus,Mangrovicoccus ximenensis,4,6,4,119,108,58,11,17,17,21,63,26
+cellular organisms,Archaea,TACK group,Candidatus Bathyarchaeota,unclassified Candidatus Bathyarchaeota,Candidatus Bathyarchaeota archaeon,NA,NA,4,5,4,58,71,38,1,10,4,14,27,17
+cellular organisms,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Nitrobacteraceae,Bradyrhizobium,unclassified Bradyrhizobium,4,3,1,52,46,33,2,3,8,12,23,19
+cellular organisms,Bacteria,Pseudomonadota,Alphaproteobacteria,Rhodobacterales,Paracoccaceae,unclassified Paracoccaceae,Rhodobacteraceae bacterium CH30,4,3,2,28,25,12,3,5,6,7,17,13
+cellular organisms,Bacteria,FCB group,Bacteroidota/Chlorobiota group,Bacteroidota,Bacteroidia,Marinilabiliales,Marinilabiliaceae,4,3,2,53,61,33,7,12,10,15,23,20
+cellular organisms,Eukaryota,Opisthokonta,Fungi,Fungi incertae sedis,Chytridiomycota,Chytridiomycota incertae sedis,Neocallimastigomycetes,4,1,5,30,31,17,2,1,5,12,15,10
+cellular organisms,Bacteria,Terrabacteria group,Bacillota,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,3,5,3,68,61,39,74,124,98,515,805,623
+cellular organisms,Bacteria,Terrabacteria group,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,3,1,1,41,47,26,2,8,12,14,32,17
+cellular organisms,Bacteria,Terrabacteria group,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Arthrobacter,3,1,2,26,34,23,6,4,3,7,21,13
+cellular organisms,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Ciceribacter,Ciceribacter ferrooxidans,3,2,1,26,21,20,5,4,3,5,16,8
+cellular organisms,Bacteria,Terrabacteria group,Actinomycetota,Actinomycetes,Mycobacteriales,Corynebacteriaceae,Corynebacterium,3,2,2,47,43,24,1,6,3,8,16,5
+cellular organisms,Bacteria,Terrabacteria group,Actinomycetota,Actinomycetes,Micrococcales,Promicromonosporaceae,Isoptericola,3,2,3,55,37,26,3,7,7,4,19,16
+cellular organisms,Bacteria,Terrabacteria group,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,2,1,8,18,6,1,3143,3639,3779,290540,508177,317458
+cellular organisms,Bacteria,Terrabacteria group,Actinomycetota,Actinomycetes,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,2,1,1,25,21,16,3,2,4,3,12,11
+cellular organisms,Bacteria,Terrabacteria group,Actinomycetota,Actinomycetes,Streptosporangiales,Thermomonosporaceae,Actinomadura,2,1,1,15,19,11,3,7,5,6,19,14
+cellular organisms,Eukaryota,Viridiplantae,Chlorophyta,core chlorophytes,Trebouxiophyceae,Chlorellales,Chlorellaceae,2,2,3,32,27,20,2,3,5,5,3,9
+cellular organisms,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas syringae group,2,4,2,7,11,1,1,1,1,2,7,1
+cellular organisms,Bacteria,Terrabacteria group,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,2,2,2,20,14,20,3,6,9,5,10,9
+cellular organisms,Eukaryota,Opisthokonta,Fungi,Dikarya,Basidiomycota,Agaricomycotina,Agaricomycetes,2,1,3,18,18,12,1,2,1,3,20,10
+cellular organisms,Bacteria,FCB group,Bacteroidota/Chlorobiota group,Bacteroidota,Chitinophagia,Chitinophagales,Chitinophagaceae,2,2,4,26,27,24,8,10,3,4,14,8
+cellular organisms,Bacteria,Pseudomonadota,Gammaproteobacteria,Oceanospirillales,Halomonadaceae,Cobetia,Cobetia crustatorum,2,1,1,19,8,6,1,7,6,8,16,16
+cellular organisms,Eukaryota,Viridiplantae,Chlorophyta,core chlorophytes,Trebouxiophyceae,Chlorellales,Chlorellaceae,2,4,2,25,25,20,4,9,8,10,11,8
+cellular organisms,Bacteria,PVC group,Verrucomicrobiota,Verrucomicrobiae,Verrucomicrobiales,Verrucomicrobiaceae,Luteolibacter,2,2,4,39,60,37,10,10,5,14,23,24
+cellular organisms,Bacteria,Terrabacteria group,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,2,4,6,45,26,18,90,113,87,2,15,5
+cellular organisms,Bacteria,Pseudomonadota,Gammaproteobacteria,Oceanospirillales,Halomonadaceae,Halomonas,unclassified Halomonas,2,4,6,70,74,33,3,7,3,8,20,11
+cellular organisms,Bacteria,Terrabacteria group,Actinomycetota,Thermoleophilia,Solirubrobacterales,Solirubrobacteraceae,Solirubrobacter,2,2,1,35,35,18,12,14,6,19,32,24
+cellular organisms,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium/Agrobacterium group,Rhizobium,1,1,3,27,32,14,4,4,4,29,50,23
+cellular organisms,Bacteria,Terrabacteria group,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,1,1,13,14,29,8,25684,33590,30093,111901,81459,146299
+cellular organisms,Bacteria,Pseudomonadota,Betaproteobacteria,Rhodocyclales,Zoogloeaceae,Zoogloea,Zoogloea oryzae,1,2,2,38,37,23,7,9,8,13,30,15
+cellular organisms,Bacteria,Terrabacteria group,Actinomycetota,Actinomycetes,Micrococcales,Microbacteriaceae,Microbacterium,1,1,1,41,41,21,7,7,7,8,15,11
+cellular organisms,Bacteria,unclassified Bacteria,bacterium,NA,NA,NA,NA,1,1,2,17,18,11,5,8,4,8,14,15
+cellular organisms,Bacteria,Acidobacteriota,unclassified Acidobacteriota,Acidobacteriota bacterium,NA,NA,NA,1,3,1,5,1,3,7,5,5,8,13,12
+cellular organisms,Bacteria,FCB group,Bacteroidota/Chlorobiota group,Bacteroidota,Bacteroidia,Marinilabiliales,Marinilabiliaceae,1,5,5,42,40,17,10,12,9,22,36,28
+cellular organisms,Bacteria,FCB group,Bacteroidota/Chlorobiota group,Bacteroidota,Bacteroidia,Marinilabiliales,Prolixibacteraceae,1,1,4,15,16,19,4,2,3,5,12,7
+cellular organisms,Bacteria,FCB group,Bacteroidota/Chlorobiota group,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,1,3,1,27,11,14,3,8,1,3,21,15
+cellular organisms,Eukaryota,Viridiplantae,Chlorophyta,core chlorophytes,Trebouxiophyceae,Trebouxiales,Trebouxiaceae,1,4,1,26,34,16,1,5,2,6,5,4
+cellular organisms,Bacteria,Terrabacteria group,Bacillota,Bacilli,Bacillales,Bacillaceae,Ectobacillus,1,2,5,68,47,41,67,93,89,16,28,31
+Viruses,NA,NA,NA,NA,NA,NA,NA,45,25,37,281,285,166,918,1118,881,315,529,293
